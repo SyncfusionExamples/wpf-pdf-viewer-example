@@ -1,4 +1,4 @@
-# wpf-pdf-viewer-example
+# Getting Started with Syncfusion’s WPF PDFViewer : View, Edit and Print PDF Files
 This sample contains PDF Viewer Control with PDF document loaded in it. PDF Viewer lets you to edit, print and persist the modified PDF file. Also you will be able to work with PDF Viewer features like annotations, bookmark, zooming features of PDF Viewer.
 
 Watch the video now:
